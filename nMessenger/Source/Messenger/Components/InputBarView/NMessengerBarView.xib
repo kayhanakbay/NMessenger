@@ -12,7 +12,7 @@
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="NMessengerBarView" customModule="NMessenger" customModuleProvider="target">
             <connections>
                 <outlet property="InputBarView" destination="iN0-l3-epB" id="cHc-9u-IsO"/>
-                <outlet property="plusButton" destination="ZY8-eq-qAl" id="CrM-iX-Mfg"/>
+                <outlet property="plusButton" destination="ZY8-eq-qAl" id="s9P-ev-Xj8"/>
                 <outlet property="sendButton" destination="6ZI-Ed-TdT" id="nVB-Vj-6Uw"/>
                 <outlet property="textInputAreaView" destination="Sm0-IA-kLJ" id="B1P-uO-jF0"/>
                 <outlet property="textInputAreaViewHeight" destination="yKk-PO-qMv" id="eU8-rF-jyc"/>

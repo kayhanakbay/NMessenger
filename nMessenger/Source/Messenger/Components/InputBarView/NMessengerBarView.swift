@@ -19,7 +19,7 @@ import Photos
  */
 open class NMessengerBarView: InputBarView, UITextViewDelegate, CameraViewDelegate {
     
-    @IBOutlet weak var plusButton: UIButton!
+    @IBOutlet open weak var plusButton: UIButton!
     //MARK: IBOutlets
     //@IBOutlet for InputBarView
     @IBOutlet open weak var inputBarView: UIView!
