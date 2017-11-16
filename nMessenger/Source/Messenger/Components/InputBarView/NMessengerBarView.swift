@@ -36,7 +36,7 @@ open class NMessengerBarView: InputBarView, UITextViewDelegate, CameraViewDelega
     //CGFloat to the fine the number of rows a user can type
     open var numberOfRows:CGFloat = 3
     //String as placeholder text in input view
-    open var inputTextViewPlaceholder: String = "NMessenger"
+    open var inputTextViewPlaceholder: String = ""
     {
         willSet(newVal)
         {
